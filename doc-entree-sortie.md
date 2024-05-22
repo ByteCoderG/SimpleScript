@@ -1,2 +1,0 @@
-# Doc - Entrée/Sortie
-
