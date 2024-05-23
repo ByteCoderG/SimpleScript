@@ -19,3 +19,4 @@ Pour cela, on utilise la commande `convertir`. Dans certains cas, comme celui de
 ```
 convertir exemple
 ```
+[Page 3 - Opérations mathématiques](3%20-%20Opérations%20mathématiques.md)
