@@ -26,4 +26,4 @@ demander prenom
 afficher "Vous vous appelez" + prenom
 ```
 
-[Page suivante (Variables)](Doc%20(2)%20-%20Variables.md)
+[Page suivante (Variables)](2 - Variables.md)
