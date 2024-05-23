@@ -35,4 +35,4 @@ Pour mettre en pause le code, on utilise la commande `pause`. Pour arrêter le c
 pause
 ```
 
-[Page suivante (Variables)](<2 - Variables.md>)
+[Page 2 - Variables](<2 - Variables.md>)
