@@ -13,3 +13,4 @@ Pour stocker le résultat, on donne le nom de la variable dans laquelle sera sto
 ```
 calculer resultat 1 + 1
 ```
+[Page 4 - Conditions](4%20-%20Conditions.md)
