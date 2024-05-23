@@ -12,3 +12,5 @@ SimpleScript est un projet novateur qui vise à créer un langage de programmati
 4. **Évolutivité et collaboration** : Bien que SimpleScript soit simple par conception, il est également évolutif. Le projet est conçu pour évoluer avec le temps grâce à la contribution de développeurs du monde entier. En publiant le projet sur GitHub, l'équipe derrière SimpleScript encourage la collaboration et l'innovation continue, permettant au langage de s'enrichir de nouvelles fonctionnalités et de s'adapter aux besoins changeants de sa communauté d'utilisateurs.
 
 En résumé, SimpleScript représente une vision ambitieuse de la programmation simplifiée, offrant un point de départ idéal pour les débutants tout en restant suffisamment puissant pour les projets plus avancés. En combinant la simplicité du langage avec un IDE convivial et un engagement envers la collaboration communautaire, le projet aspire à devenir un catalyseur pour l'apprentissage et l'innovation dans le domaine de la programmation.
+
+[image] /Simplescriptvspython.png
