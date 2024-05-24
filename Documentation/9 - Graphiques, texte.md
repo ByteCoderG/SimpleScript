@@ -25,3 +25,5 @@ fin fenêtre
 {% hint style="warning" %}
 Les couleurs doivent être données en anglais uniquement...
 {% endhint %}
+
+[Page 10 - Graphiques, Entrées](10%20-%20Graphiques%2C%20entrées.md)
