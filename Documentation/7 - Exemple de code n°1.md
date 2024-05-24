@@ -56,3 +56,4 @@ autrement:
 afficher "Vous n'êtes pas obèse !"
 fin si
 ```
+[Page 8 - Graphiques, fenêtre](8%20-%20Graphiques%2C%20fenêtre.md)
