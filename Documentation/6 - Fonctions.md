@@ -22,4 +22,4 @@ def.fonction exemple
 fin fonction
 fonction exemple
 ```
-[Page 7 - Code exemple n°1](6%20-%20Exemple%20de%20code%20n°1.md)
+[Page 7 - Code exemple n°1](7%20-%20Exemple%20de%20code%20n°1.md)
