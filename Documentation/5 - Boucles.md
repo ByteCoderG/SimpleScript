@@ -34,4 +34,4 @@ stop
 fin si
 fin répéter
 ```
-[Page 6 - Code exemple n°1](6%20-%20Exemple%20de%20code%20n°1.md)
+[Page 6 - Fonctions](6%20-%20Fonctions.md)
