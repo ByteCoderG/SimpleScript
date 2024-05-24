@@ -35,4 +35,4 @@ fin fenêtre
 Toutes les commandes spécifiques au graphique commencent par `f.` qui signifie fenêtre.
 {% endhint %}
 
-[Page 9 - Graphiques, Entrées et Sorties](9%20-%20Graphiques%2C%20entrées%20et%20sorties.md)
+[Page 9 - Graphiques, Entrées et Sorties](9%20-%20Graphiques%2C%20texte.md)
