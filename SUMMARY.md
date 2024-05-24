@@ -15,5 +15,6 @@
   * [Doc - Code exemple n°1](<Documentation/6 - Exemple de code n°1.md>)
 * [Doc - Graphiques, fenêtres](doc-graphiques-fenetres.md)
 * [Doc - Graphiques, entrées/sorties](doc-graphiques-entrees-sorties.md)
+* [Doc - Fonctions](doc-fonctions.md)
 * [Documentation](documentation-6/README.md)
   * [Pages documentation](Documentation/SUMMARY.md)
